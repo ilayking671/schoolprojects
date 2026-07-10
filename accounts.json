@@ -1,1 +1,7 @@
-{}
+{
+    "ilay": {
+        "password": "kinda",
+        "hwid": "",
+        "expires_at": "lifetime"
+    }
+}
