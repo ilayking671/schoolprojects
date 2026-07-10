@@ -3,5 +3,10 @@
         "password": "kinda",
         "hwid": "",
         "expires_at": "2026-07-15 22:37:30"
+    },
+    "Beamer": {
+        "password": "Beamed",
+        "hwid": "",
+        "expires_at": "2026-07-25 22:41:38"
     }
 }
