@@ -1,5 +1,1 @@
-{
-    "COMET-9A0C-2CBF": {
-        "duration_days": 7
-    }
-}
+{}
