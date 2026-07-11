@@ -1,1 +1,6 @@
-{}
+{
+    "COMET-3596-2B57": {
+        "duration_value": 5,
+        "duration_unit": "minutes"
+    }
+}
