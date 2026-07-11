@@ -2,5 +2,9 @@
     "COMET-3596-2B57": {
         "duration_value": 5,
         "duration_unit": "minutes"
+    },
+    "COMET-A20E-0175": {
+        "duration_value": 0,
+        "duration_unit": "lifetime"
     }
 }
