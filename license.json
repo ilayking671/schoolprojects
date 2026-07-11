@@ -1,1 +1,6 @@
-{}
+{
+    "COMET-CF5F-7AA9": {
+        "duration_value": 5,
+        "duration_unit": "hours"
+    }
+}
