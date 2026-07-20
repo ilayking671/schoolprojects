@@ -3,10 +3,5 @@
         "password": "kinda",
         "hwid": "230926955614128",
         "expires_at": "lifetime"
-    },
-    "test": {
-        "password": "test",
-        "hwid": "",
-        "expires_at": "lifetime"
     }
 }
