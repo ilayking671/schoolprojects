@@ -10,5 +10,9 @@
     "COMET-D2C6-BF40": {
         "duration_value": 5,
         "duration_unit": "hours"
+    },
+    "COMET-755E-0128": {
+        "duration_value": 5,
+        "duration_unit": "minutes"
     }
 }
