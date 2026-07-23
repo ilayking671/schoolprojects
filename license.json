@@ -6,5 +6,9 @@
     "COMET-B740-EF02": {
         "duration_value": 5,
         "duration_unit": "days"
+    },
+    "COMET-D2C6-BF40": {
+        "duration_value": 5,
+        "duration_unit": "hours"
     }
 }
