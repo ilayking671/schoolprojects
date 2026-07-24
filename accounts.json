@@ -1,7 +1,8 @@
 {
     "ilay": {
         "password": "kinda",
-        "hwid": "230926955614128",
-        "expires_at": "lifetime"
+        "hwid": "",
+        "expires_at": "lifetime",
+        "last_hwid_reset": "2026-07-24_04:14:34"
     }
 }
