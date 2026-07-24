@@ -4,5 +4,10 @@
         "hwid": "230926955614128",
         "expires_at": "lifetime",
         "last_hwid_reset": "2026-07-24_05:22:53"
+    },
+    "test": {
+        "password": "test",
+        "hwid": "",
+        "expires_at": "2026-07-24 05:51:52"
     }
 }
